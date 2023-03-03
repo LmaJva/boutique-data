@@ -1,7 +1,7 @@
 {
     "Carte Postale": {
         "titre": {
-            "fr": "Carte Postale",
+            "fr": "Carte Petite",
             "en": "Postal Card"
         },
         "description": {
@@ -9,59 +9,59 @@
             "en": " "
         }
     },
-    "Cartes Moyennes": {
+    "Carte Moyenne": {
         "titre": {
-            "fr": "Carte moyen format 15x21cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "fr": "Carte Moyenne",
             "en": " "
         },
         "description": {
-            "fr": "   ",
+            "fr": "Carte moyen format 15x21cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         }
     },
     "Carte carrée petite": {
         "titre": {
-           "fr": "Carte carée format 10x10cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
-            "en": " "
+           "fr": "Carte carrée petite",
+            "en": ""
         },
         "description": {
-            "fr": "   ",
+            "fr": "Carte carée format 10x10cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         }
     },
      "Carte carrée moyenne": {
         "titre": {
-           "fr": "Carte carée format 15x15cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+           "fr": "Carte carrée moyenne",
             "en": " "
         },
         "description": {
-            "fr": "   ",
+            "fr": "Carte carée format 15x15cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         }
     },
     "Affiche": {
         "titre": {
-            "fr": "Affiche 21x30cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "fr": "Affiche",
             "en": " "
         },
         "description": {
-            "fr": "   ",
+            "fr": "Affiche 21x30cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         }
     },
     "Marque-page": {
         "titre": {
-            "fr": "Marque-Page 4x15cm,impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "fr": "Marque-page",
             "en": " "
         },
         "description": {
-           "fr": "   ",
+           "fr": "Marque-page 4x15cm,impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         }
     },
     "Carnet": {
         "titre": {
-           "fr": "Carnet artisanal 10x15cm",
+           "fr": "Carnet",
             "en": " "
         },
         "description": {
