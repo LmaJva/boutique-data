@@ -5,13 +5,13 @@
             "en": "Postal Card"
         },
         "description": {
-            "fr": "Carte postale 10x15cm impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "fr": "Carte postale 10x15cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         }
     },
     "Cartes Moyennes": {
         "titre": {
-            "fr": "Carte moyen format 15x21cm impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "fr": "Carte moyen format 15x21cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         },
         "description": {
@@ -21,7 +21,7 @@
     },
     "Carte carrée": {
         "titre": {
-           "fr": "   ",
+           "fr": "Carte carée format 10x10cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         },
         "description": {
@@ -31,7 +31,7 @@
     },
     "Affiche": {
         "titre": {
-            "fr": "   ",
+            "fr": "Affiche 21x30cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         },
         "description": {
@@ -41,7 +41,7 @@
     },
     "Marque-page": {
         "titre": {
-            "fr": "   ",
+            "fr": "Marque-Page 4x15cm,impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         },
         "description": {
@@ -51,11 +51,11 @@
     },
     "Carnet": {
         "titre": {
-           "fr": "   ",
+           "fr": "Carnet artisanal 10x15cm",
             "en": " "
         },
         "description": {
-           "fr": "   ",
+           "fr": "Carnet artisanal dont la couverture permet de glisser la carte postale de son choix et ainsi laisser transparaître les couleurs et formes pour une couverture perosnnalisée et amovible. Les pages sont entièrement créées en papiers recyclés, c'est pourquoi il est préférable d'y écrire au crayon ou stylo à encre sèche",
             "en": " "
         }
     }
