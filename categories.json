@@ -1,62 +1,62 @@
 {
-    "Thé": {
+    "Carte Postale": {
         "titre": {
-            "fr": "茶 Chá",
-            "en": "茶 Chá"
+            "fr": "Carte Postale",
+            "en": "Postal Card"
         },
         "description": {
-            "fr": "Quelques thés sélectionnés par nos soins, en provenance de Chine ou de Taïwan. Ils racontent leur histoire, parle de cultivar, de terroir… Ils sont là parce que quelque chose nous a touchés en les découvrant et que nous pensons qu'ils valent le détour. Il ne vous reste plus qu’à choisir ! Et pour que le prix n’influence pas votre choix et que vous laissiez vos envies vous guider, nous vous proposons un tarif unique (15 €/25g, hors thés spéciaux).",
-            "en": "A selection of teas, from China or Taiwan. They tell their story, speak of their cultivar, their terroir... They are here because something touched us when we discovered them and we think they are worth a try. All you have to do is choose! And so that the price does not influence your choice and you let your desires guide you, we propose a single price (15 €/25g, excluding special teas)."
+            "fr": "Carte postale 10x15cm impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "en": " "
         }
     },
-    "Théière": {
+    "Cartes Moyennes": {
         "titre": {
-            "fr": "茶壺 CháHú",
-            "en": "茶壺 CháHú"
+            "fr": "Carte moyen format 15x21cm impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "en": " "
         },
         "description": {
-            "fr": "La théière, 茶壺 - CháHú, permet un contrôle précis de l’infusion des feuilles. Née au XVIème siècle des mains d’un certain 供春 - Gōng Chūn, la forme 供春壶 - Gōng Chūn Hú a inspiré les plus de 200 modèles qui existent de nos jours. Composée d’un 盖 - Gài (couvercle), 身 - Shēn (corps) et 低 - Dī (bas), chaque théière est traditionnellement utilisée pour un seul et unique type de thé.",
-            "en": "The teapot, 茶壺 - CháHú, allows precise control of the infusion of the leaves. Born in the 16th century at the hands of a certain 供春 - Gōng Chūn, the 供春壶 - Gōng Chūn Hú shape inspired the more than 200 models that exist today. Consisting of a 盖 - Gài (lid), 身 - Shēn (body) and 低 - Dī (bottom), each teapot is traditionally used for a single type of tea."
+            "fr": "   ",
+            "en": " "
         }
     },
-    "Gaiwan": {
+    "Carte carrée": {
         "titre": {
-            "fr": "蓋碗 GàiWǎn",
-            "en": "蓋碗 GàiWǎn"
+           "fr": "   ",
+            "en": " "
         },
         "description": {
-            "fr": "Le 蓋碗 - GàiWǎn, est l'ustensile idéal pour démarrer sur la voie du thé. Traditionnellement émaillé, il reste neutre et peut ainsi s’utiliser avec tous les types de thés. Sa forme permet d’observer l’évolution de l’infusion facilement. Avec un peu d’entraînement, préparer votre thé au GàiWǎn sera un vrai moment de plaisir et de partage.",
-            "en": "The 蓋碗 - GàiWǎn, is the ideal utensil to start on the road to tea. Traditionally enamelled, it remains neutral and can therefore be used with all types of tea. Its shape makes it easy to observe the evolution of the infusion. With a little practice, preparing your tea with the GàiWǎn will be a real moment of pleasure and sharing."
+            "fr": "   ",
+            "en": " "
         }
     },
-    "Manon Clouzeau": {
+    "Affiche": {
         "titre": {
-            "fr": "Manon Clouzeau",
-            "en": "Manon Clouzeau"
+            "fr": "   ",
+            "en": " "
         },
         "description": {
-            "fr": "Entrez dans l'univers de Manon Clouzeau, là où la céramique est un art de l’instant, du geste et du ressenti.",
-            "en": "Enter the world of Manon Clouzeau, where ceramics is an art of the moment, of gesture and feeling."
+            "fr": "   ",
+            "en": " "
         }
     },
-    "Jé le Potier": {
+    "Marque-page": {
         "titre": {
-            "fr": "Jé le Potier",
-            "en": "Jé le Potier"
+            "fr": "   ",
+            "en": " "
         },
         "description": {
-            "fr": "Jérôme Roussel consacre son travail au domaine du thé. Il l’explore par une pratique quotidienne, pour que l’expérience se transforme en qualités concrètes et utiles pour les pièces. Il fabrique artisanalement tous les styles d’infuseurs, mais aussi, des bouilloires, des brasero, des jarres à thé, des bols à thé… avec le sens du détail et le plaisir de la précision, pour que vous puissiez profiter pleinement de vos “instants thé”.",
-            "en": "Jérôme Roussel dedicates his work to the field of tea. He explores it through daily practice, so that the experience is transformed into concrete and useful qualities for the pieces. He handcrafts all styles of teapots, but also kettles, braziers, tea jars, tea bowls… with a sense of detail and the pleasure of precision, so that you can fully enjoy your “tea moments”."
+           "fr": "   ",
+            "en": " "
         }
     },
-    "Mademoiselles Céramique": {
+    "Carnet": {
         "titre": {
-            "fr": "Mademoiselles Céramique",
-            "en": "Mademoiselles Céramique"
+           "fr": "   ",
+            "en": " "
         },
         "description": {
-            "fr": "Marion Muselet, alias Mademoiselles Céramique, est une céramiste montpelliéraine spécialisée dans le travail de la porcelaine. Son univers oscille entre art et artisanat. Depuis 2022, elle crée des GàiWǎns en porcelaine et des théières en terre de Yixing et terres françaises. Ses créations sont 100% tournées à la main.",
-            "en": "Marion Muselet, alias Mademoiselles Céramique, is a ceramist from Montpellier who specialises in porcelain work. Her universe oscillates between art and craft. Since 2022, she has been creating porcelain GàiWǎns and teapots in Yixing and French clay. Her creations are 100% turned by hand on a potter's wheel."
+           "fr": "   ",
+            "en": " "
         }
     }
 }
