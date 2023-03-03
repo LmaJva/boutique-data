@@ -19,9 +19,19 @@
             "en": " "
         }
     },
-    "Carte carrée": {
+    "Carte carrée petite": {
         "titre": {
            "fr": "Carte carée format 10x10cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "en": " "
+        },
+        "description": {
+            "fr": "   ",
+            "en": " "
+        }
+    },
+     "Carte carrée moyenne": {
+        "titre": {
+           "fr": "Carte carée format 15x15cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         },
         "description": {
