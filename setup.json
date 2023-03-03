@@ -1,13 +1,13 @@
 {
-    "forme_social": "association",
+    "forme_social": "Lma Jva Art indépendant",
     "logo": "https://raw.githubusercontent.com/brutdethe/boutique-data/main/logo.svg",
     "nom": "Peinture résonnante",
     "a_propos": "https://www.brutdethé.fr/pages/faq-boutique",
-    "proprietaire": "Thaïs Erbs, Stéphane Langlois et Violaine Andrieux",
+    "proprietaire": "Maëlle Gosnet",
     "email": "grainejauneresonnante@mailo.com",
-    "site": "https://boutique.brutdethé.fr",
-    "siege": "7, rue de Tal ar Groas, 29160 Lanvéoc",
-    "enregistrement": "des greffes du tribunal de Brest",
-    "RCS": "899 032 494",
-    "APE": "1083-Z"
+    "site": "https://peintureresonnante.fr",
+    "siege": "Massat",
+    "enregistrement": "Chambre des Métiers de Foix",
+    "RCS": "811 662 907 00021",
+    "APE": "1729ZZ"
 }
