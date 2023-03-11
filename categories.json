@@ -1,5 +1,5 @@
 [
-    "Carte Postale": {
+    {
         "titre": {
             "fr": "Carte Petite",
             "en": "Postal Card"
@@ -9,7 +9,7 @@
             "en": " "
         }
     },
-    "Carte Moyenne": {
+    {
         "titre": {
             "fr": "Carte Moyenne",
             "en": " "
@@ -19,7 +19,7 @@
             "en": " "
         }
     },
-    "Carte carrée petite": {
+    {
         "titre": {
            "fr": "Carte carrée petite",
             "en": ""
@@ -29,7 +29,7 @@
             "en": " "
         }
     },
-     "Carte carrée moyenne": {
+     {
         "titre": {
            "fr": "Carte carrée moyenne",
             "en": " "
@@ -39,7 +39,7 @@
             "en": " "
         }
     },
-    "Affiche": {
+    {
         "titre": {
             "fr": "Affiche",
             "en": " "
@@ -49,7 +49,7 @@
             "en": " "
         }
     },
-    "Marque-page": {
+    {
         "titre": {
             "fr": "Marque-page",
             "en": " "
@@ -59,7 +59,7 @@
             "en": " "
         }
     },
-    "Carnet": {
+    {
         "titre": {
            "fr": "Carnet",
             "en": " "
