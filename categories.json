@@ -1,5 +1,6 @@
 [
     {
+        "label": "Carte Petite",
         "titre": {
             "fr": "Carte Petite",
             "en": "Postal Card"
@@ -10,6 +11,7 @@
         }
     },
     {
+        "label": "Carte Moyenne",
         "titre": {
             "fr": "Carte Moyenne",
             "en": " "
@@ -20,6 +22,7 @@
         }
     },
     {
+        "label": "Carte carrée petite",
         "titre": {
            "fr": "Carte carrée petite",
             "en": ""
@@ -30,6 +33,7 @@
         }
     },
      {
+         "fr": "Carte carrée moyenne",
         "titre": {
            "fr": "Carte carrée moyenne",
             "en": " "
@@ -40,6 +44,7 @@
         }
     },
     {
+        "label": "Affiche",
         "titre": {
             "fr": "Affiche",
             "en": " "
@@ -50,6 +55,7 @@
         }
     },
     {
+        "label": "Marque-page",
         "titre": {
             "fr": "Marque-page",
             "en": " "
@@ -60,6 +66,7 @@
         }
     },
     {
+        "label": "Carnet",
         "titre": {
            "fr": "Carnet",
             "en": " "
