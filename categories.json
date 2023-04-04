@@ -2,11 +2,11 @@
     {
         "label": "Format Carré Petit",
         "titre": {
-            "fr": "Carte Petite",
-            "en": "Postal Card"
+            "fr": "Petite carte carrée",
+            "en": "Small square card"
         },
         "description": {
-            "fr": "Carte postale 10x10cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "fr": "",
             "en": " "
         }
     },
