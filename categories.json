@@ -1,57 +1,57 @@
 [
     {
-        "label": "Petit Format Carré",
+        "label": "Le petit format carré",
         "titre": {
             "fr": "Petit Format Carré",
-            "en": "Small square size"
+            "en": "Small Square Size"
         },
         "description": {
-            "fr": "",
-            "en": " "
+            "fr": "Idéal pour les attentions originales, allant droit au but",
+            "en": "Ideal for original, straight to the point attentions"
         }
     },
     {
-        "label": "Format Rectangle",
+        "label": "Le format rectangle",
         "titre": {
             "fr": "Format Rectangle",
-            "en": " "
+            "en": "Rectangle Size"
         },
         "description": {
-            "fr": "",
-            "en": " "
+            "fr": "La classique carte postale accompagnera vos mots, vos souvenirs, votre attention avec une peinture unique à son verso",
+            "en": "The classic postcard will accompany your words, your memories, your attention with a unique painting on its back"
         }
     },
     {
-        "label": "Moyen Format",
+        "label": "Le moyen format",
         "titre": {
            "fr": "Moyen Format",
-            "en": ""
+            "en": "Medium Size"
         },
         "description": {
-            "fr": "Carte moyen format 15x21cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
-            "en": " "
+            "fr": "Ambivalente, cette carte peut ravir un.e destinataire d'une attention particulièrement grande ou tout simplement pour se faire plaisir et pouvoir l'admirer chez soi, sur un meuble ou au mur",
+            "en": "Ambivalent, this card can delight a recipient of a particularly great attention or simply to please oneself and be able to admire it at home, on a piece of furniture or on the wall"
         }
     },
      {
-         "label": "Grand Format Carré",
+         "label": "Le grand format carré",
         "titre": {
            "fr": "Grand Format Carré",
-            "en": " "
+            "en": "Large Square Size"
         },
         "description": {
-            "fr": "Carte format carré 15x15cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
-            "en": " "
+            "fr": "Ce grand format saura montrer tous ses détails, pour accrocher chez soi ou à envoyer pour faire grandement plaisir",
+            "en": "This large format will show all its details, to hang at home or to send for great pleasure"
         }
     },
     {
-        "label": "Grand Format",
+        "label": "Le grand format",
         "titre": {
             "fr": "Grand Format",
             "en": " "
         },
         "description": {
-            "fr": "Affiche 21x30cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
-            "en": " "
+            "fr": "Ce grand format saura montrer tous ses détails, pour accrocher chez soi ou à envoyer pour faire grandement plaisir",
+            "en": "This large format will show all its details, to hang at home or to send for great pleasure"
         }
     },
     {
