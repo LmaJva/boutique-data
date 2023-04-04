@@ -1,52 +1,52 @@
 [
     {
-        "label": "Carte Petite",
+        "label": "Format Carré Petit",
         "titre": {
             "fr": "Carte Petite",
             "en": "Postal Card"
         },
         "description": {
-            "fr": "Carte postale 10x15cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "fr": "Carte postale 10x10cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         }
     },
     {
-        "label": "Carte Moyenne",
+        "label": "Format Rectangle",
         "titre": {
-            "fr": "Carte Moyenne",
+            "fr": "Carte ",
             "en": " "
+        },
+        "description": {
+            "fr": "",
+            "en": " "
+        }
+    },
+    {
+        "label": "Format Moyen",
+        "titre": {
+           "fr": "",
+            "en": ""
         },
         "description": {
             "fr": "Carte moyen format 15x21cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         }
     },
-    {
-        "label": "Carte carrée petite",
-        "titre": {
-           "fr": "Carte carrée petite",
-            "en": ""
-        },
-        "description": {
-            "fr": "Carte carée format 10x10cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
-            "en": " "
-        }
-    },
      {
-         "fr": "Carte carrée moyenne",
+         "label": "Format Grand Carré",
         "titre": {
-           "fr": "Carte carrée moyenne",
+           "fr": "",
             "en": " "
         },
         "description": {
-            "fr": "Carte carée format 15x15cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
+            "fr": "Carte format carré 15x15cm, impression Condat Périgord 300g, semi-brillant, dos blanc et signé",
             "en": " "
         }
     },
     {
-        "label": "Affiche",
+        "label": "Format Grand",
         "titre": {
-            "fr": "Affiche",
+            "fr": "",
             "en": " "
         },
         "description": {
@@ -66,7 +66,7 @@
         }
     },
     {
-        "label": "Carnet",
+        "label": "Carnet Porte-Carte",
         "titre": {
            "fr": "Carnet",
             "en": " "
