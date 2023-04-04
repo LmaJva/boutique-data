@@ -11,7 +11,7 @@
         }
     },
     {
-        "label": "Le format rectangle",
+        "label": "format-rectangle",
         "titre": {
             "fr": "Format Rectangle",
             "en": "Rectangle Size"
@@ -22,7 +22,7 @@
         }
     },
     {
-        "label": "Le moyen format",
+        "label": "moyen-format",
         "titre": {
            "fr": "Moyen Format",
             "en": "Medium Size"
@@ -33,7 +33,7 @@
         }
     },
      {
-         "label": "Le grand format carré",
+         "label": "grand-format-carré",
         "titre": {
            "fr": "Grand Format Carré",
             "en": "Large Square Size"
@@ -44,7 +44,7 @@
         }
     },
     {
-        "label": "Le grand format",
+        "label": "grand-format",
         "titre": {
             "fr": "Grand Format",
             "en": " "
@@ -55,7 +55,7 @@
         }
     },
     {
-        "label": "Marque-page",
+        "label": "marque-page",
         "titre": {
             "fr": "Marque-page",
             "en": " "
@@ -66,7 +66,7 @@
         }
     },
     {
-        "label": "Carnet Porte-Carte",
+        "label": "carnet-porte-carte",
         "titre": {
            "fr": "Carnet Porte-Carte",
             "en": " "
