@@ -1,9 +1,9 @@
 [
     {
-        "label": "Format Carré Petit",
+        "label": "Petit Format Carré",
         "titre": {
-            "fr": "Petite carte carrée",
-            "en": "Small square card"
+            "fr": "Petit Format Carré",
+            "en": "Small square size"
         },
         "description": {
             "fr": "",
@@ -13,7 +13,7 @@
     {
         "label": "Format Rectangle",
         "titre": {
-            "fr": "Carte ",
+            "fr": "Format Rectangle",
             "en": " "
         },
         "description": {
@@ -22,9 +22,9 @@
         }
     },
     {
-        "label": "Format Moyen",
+        "label": "Moyen Format",
         "titre": {
-           "fr": "",
+           "fr": "Moyen Format",
             "en": ""
         },
         "description": {
@@ -33,9 +33,9 @@
         }
     },
      {
-         "label": "Format Grand Carré",
+         "label": "Grand Format Carré",
         "titre": {
-           "fr": "",
+           "fr": "Grand Format Carré",
             "en": " "
         },
         "description": {
@@ -44,9 +44,9 @@
         }
     },
     {
-        "label": "Format Grand",
+        "label": "Grand Format",
         "titre": {
-            "fr": "",
+            "fr": "Grand Format",
             "en": " "
         },
         "description": {
@@ -68,7 +68,7 @@
     {
         "label": "Carnet Porte-Carte",
         "titre": {
-           "fr": "Carnet",
+           "fr": "Carnet Porte-Carte",
             "en": " "
         },
         "description": {
