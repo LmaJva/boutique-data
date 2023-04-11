@@ -17,6 +17,8 @@
  			"Carte10x15cieux_1-a.jpg"
  		]
  	}, 
+  
+  
   {
  		"id": "CarteCarre10-2",
  		"titre": {
@@ -35,6 +37,206 @@
  		"photos": [
  			"CarteCarre10amor_1-a.jpg"
  		]
- 	}
+ 	},
  	
+   {
+ 		"id": "CarteCarre10-3",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10dosnu_1-a.jpg"
+ 		]
+ 	},
+  
+     {
+ 		"id": "CarteCarre10-4",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10cham_1-a.jpg"
+ 		]
+ 	},
+  
+       {
+ 		"id": "CarteCarre10-5",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10extrat_1-a.jpg"
+ 		]
+ 	},
+  
+        {
+ 		"id": "CarteCarre10-6",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10the_1-a.jpg"
+ 		]
+ 	},
+  
+        {
+ 		"id": "CarteCarre10-7",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10infini_1-a.jpg"
+ 		]
+ 	},
+  
+     {
+ 		"id": "CarteCarre10-8",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10blcbleu_1-a.jpg"
+ 		]
+ 	},
+  
+       {
+ 		"id": "CarteCarre10-9",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10lecteur_1-a.jpg"
+ 		]
+ 	},
+  
+         {
+ 		"id": "CarteCarre10-10",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10fee_1-a.jpg"
+ 		]
+ 	},
+  
+           {
+ 		"id": "CarteCarre10-11",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10cham_1-a.jpg"
+ 		]
+ 	},
+  
+           {
+ 		"id": "CarteCarre10-12",
+ 		"titre": {
+ 			"en": "Small Square Size",
+ 			"fr": "Petit Format Carré"
+ 		},
+ 		"modification": "2023-04-03",
+ 		"catégorie": "petit-format-carré",
+ 		"description": {
+ 			"en": "english text",
+ 			"fr": "La carte carré permet blablaa, dimensions toussa",
+ 		},
+ 		"prix": 1.60,
+ 		"poids": 0.010,
+ 		"quantité_produite": 7,
+ 		"photos": [
+ 			"CarteCarre10tissufleur_1-a.jpg"
+ 		]
+ 	}
+  
  ]
