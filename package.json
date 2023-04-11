@@ -1,16 +1,16 @@
 {
     "name": "shop-produits",
     "version": "1.0.0",
-    "description": "données pour les boutiques https://github.com/brutdethe/shop",
+    "description": "données pour les boutiques https://github.com/brutdethe/boutique-new",
     "main": "index.js",
     "scripts": {
         "optimize": "node ./scripts/optimize.js"
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com-pntbr:jelepotier/shop-produits.git"
+        "url": "git@github.com:LmaJva/boutique-data.git"
     },
-    "author": "stephane.langlois@scopyleft.fr",
+    "author": "stephane@brutdethe.fr",
     "license": "ISC",
     "dependencies": {
         "sharp": "^0.27.0"
