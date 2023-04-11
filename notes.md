@@ -1,4 +1,11 @@
-  - Théière Bian (3em tps) Xi (1er) Shi (1er) - semi-main (Ban (4tps descend ) Shou (3eme tps) Gong) - terre poupre Zi (3eme tps ^) Ni (2nd montant)
+Pour produits.json et copier coller des produits :
+Faire attention aux { et [
+donc quand on duplique, c'est avant le [ mais avec le { et jusqu'à 	}, MAIS si c'est le dernier produit ENLEVER la virgule.
+
+
+
+
+- Théière Bian (3em tps) Xi (1er) Shi (1er) - semi-main (Ban (4tps descend ) Shou (3eme tps) Gong) - terre poupre Zi (3eme tps ^) Ni (2nd montant)
   - 4 beautés (Si Me Ren)
   - fabriquée à Taiwan
 BiǎnXīShī
