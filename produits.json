@@ -10,7 +10,7 @@
  			"en": "english text",
  			"fr": "La carte carré permet blablaa, dimensions toussa",
  		},
- 		"prix": 1,60,
+ 		"prix": 1.60,
  		"poids": 0.010,
  		"quantité_produite": 7,
  		"épaisseur papier": 100,
