@@ -290,8 +290,66 @@
     "prix": 2.5,
     "quantité_produite": 5,
     "photos": [
-      "Carte10x15Extratblue_1-a.jpg"
+      "Carte10x15princesse_1-a.jpg"
     ]
   },
+  
+          {
+    "id": "CarteRectangle-5",
+    "titre": {
+      "en": "Rectangle Size",
+      "fr": "Format Rectangle"
+    },
+    "modification": "2023-04-05",
+    "catégorie": "format-rectangle",
+    "description": {
+     "en": "A TRADUIRE  and have its white back decorated of my signature in bottom.\\nThe thickness of printing paper is 300gr and allows a semi-glossy rendering and a beautiful contrast for the colors.\\nCard's size: 10x15 cm.",
+      "fr": "J'aime beaucoup cette peinture intuitive, elle m'a emmené dans un ciel fantastique, peuplé de créatures diverses.\\nPeinture intuitive acrylique sur papier.\\nImpression numérique sur papier couché, laissant son verso blanc décoré de ma signature en bas.\\nLe papier est de qualité d'impression Condat Périgord de 300gr, permettant un rendu semi-brillant et un beau contraste pour les couleurs.\\nFormat carré 10x15 cm\\nImprimé par des artisans imprimeurs français.\\nDes variations de couleur peuvent se produire en raison des paramètres de l’écran.\\nEnvoi soigné"
+    },
+    "prix": 2.5,
+    "quantité_produite": 5,
+    "photos": [
+      "Carte10x15sfblueblack_1-a.jpg"
+    ]
+  },
+  
+            {
+    "id": "CarteRectangle-6",
+    "titre": {
+      "en": "Rectangle Size",
+      "fr": "Format Rectangle"
+    },
+    "modification": "2023-04-06",
+    "catégorie": "format-rectangle",
+    "description": {
+     "en": "A TRADUIRE  and have its white back decorated of my signature in bottom.\\nThe thickness of printing paper is 300gr and allows a semi-glossy rendering and a beautiful contrast for the colors.\\nCard's size: 10x15 cm.",
+      "fr": "J'ai commencé par la couleur jaune et s'est dessiné une forme avec une tête, alors je l'ai suivi et accompagnée dans un collage peinture verdoyant, jusqu'à ce que j'en vois un lecteur dans son jardin.\\nPeinture intuitive à l'acrylique avec matériaux mixtes, sur papier.\\nImpression numérique sur papier couché, laissant son verso blanc décoré de ma signature en bas.\\nLe papier est de qualité d'impression Condat Périgord de 300gr, permettant un rendu semi-brillant et un beau contraste pour les couleurs.\\nFormat carré 10x15 cm\\nImprimé par des artisans imprimeurs français.\\nDes variations de couleur peuvent se produire en raison des paramètres de l’écran.\\nEnvoi soigné"
+    },
+    "prix": 2.5,
+    "quantité_produite": 5,
+    "photos": [
+      "Carte10x15lecteur_1-a.jpg"
+    ]
+  },
+  
+            {
+    "id": "CarteRectangle-7",
+    "titre": {
+      "en": "Rectangle Size",
+      "fr": "Format Rectangle"
+    },
+    "modification": "2023-04-07",
+    "catégorie": "format-rectangle",
+    "description": {
+     "en": "A TRADUIRE  and have its white back decorated of my signature in bottom.\\nThe thickness of printing paper is 300gr and allows a semi-glossy rendering and a beautiful contrast for the colors.\\nCard's size: 10x15 cm.",
+      "fr": "J'ai commencé cette peinture dans le Parc National des Ecrins, les sommets des montagnes, taches bleues. Puis en revenant je feuillette un de mes artistes japonais préférés, Amano Yoshitaka. Les silhouettes sont de lui.\\nPeinture acrylique sur papier.\\nImpression numérique sur papier couché, laissant son verso blanc décoré de ma signature en bas.\\nLe papier est de qualité d'impression Condat Périgord de 300gr, permettant un rendu semi-brillant et un beau contraste pour les couleurs.\\nFormat carré 10x15 cm\\nImprimé par des artisans imprimeurs français.\\nDes variations de couleur peuvent se produire en raison des paramètres de l’écran.\\nEnvoi soigné"
+    },
+    "prix": 2.5,
+    "quantité_produite": 5,
+    "photos": [
+      "Carte10x15amoureux_1-a.jpg"
+    ]
+  },
+  
   
 ]
