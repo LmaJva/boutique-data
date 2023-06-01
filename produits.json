@@ -314,25 +314,6 @@
     },
 
     {
-        "id": "CarteRectangle-6",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-6",
-        "catégorie": "format-rectangle",
-        "description": {
-            "en": "A TRADUIRE  and have its white back decorated of my signature in bottom.<br>The thickness of printing paper is 300gr and allows a semi-glossy rendering and a beautiful contrast for the colors.<br>Card's size: 10x15 cm.",
-            "fr": "Peinture intuitive à l'encre de Chine sur papier.<br>Impression numérique sur papier couché, laissant son verso blanc décoré de ma signature en bas.<br>Le papier est de qualité d'impression Condat Périgord de 300gr, permettant un rendu semi-brillant et un beau contraste pour les couleurs.<br>Format 10x15 cm<br>Imprimé par des artisans imprimeurs français.<br>Des variations de couleur peuvent se produire en raison des paramètres de l’écran.<br>Envoi soigné"
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15encrechine_1-a.jpg"
-        ]
-    },
-
-    {
         "id": "CarteRectangle-7",
         "titre": {
             "en": "Rectangle Size",
