@@ -54,26 +54,16 @@
             "en": "This large format will show all its details, to hang at home or to send for great pleasure. Printed format of my original works"
         }
     },
-    {
-        "label": "marque-page",
-        "titre": {
-            "fr": "Marque-page",
-            "en": "Bookmark"
-        },
-        "description": {
-           "fr": "Ornez vos livres d'un marque-page imprimé aux couleurs de mes peintures originales et retrouvez vos pages facilement grace à ce marque-page décoré de fils et de perles colorés",
-            "en": "Decorate your books with a printed bookmark in the colors of my originals paintings and find your pages easily with this bookmark decorated with colored threads and beads"
-        }
-    },
+   
     {
         "label": "carnet-porte-carte",
         "titre": {
            "fr": "Carnet Porte-Carte",
-            "en": "Card Holder Booklet"
+           "en": "Card Holder Booklet"
         },
         "description": {
            "fr": "Carnet artisanal dont la couverture, en papier rigide, permet de glisser la carte postale de son choix et ainsi laisser transparaître les couleurs et formes pour une couverture perosnnalisée et amovible. Les pages sont entièrement artisanales en papiers recyclés, c'est pourquoi il est préférable d'y écrire au stylo bille ou crayon de papier",
-            "en": "Handmade notebook with a stiff paper's cover that allows you to slip in the postcard of your choice and let the colors and shapes show through for a perosnalized and removable cover. The pages are full handmade of recycled paper, that's why it is preferable to write with a ballpoint pen or pencil."
+           "en": "Handmade notebook with a stiff paper's cover that allows you to slip in the postcard of your choice and let the colors and shapes show through for a perosnalized and removable cover. The pages are full handmade of recycled paper, that's why it is preferable to write with a ballpoint pen or pencil."
         }
     }
 ]
