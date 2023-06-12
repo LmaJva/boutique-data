@@ -500,23 +500,6 @@
         ]
     },
  
-     {
-        "id": "CarteMoyenFormat-1",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21Extratblue_1-a.jpg"
-        ]
-    }
+  
 
 ]
