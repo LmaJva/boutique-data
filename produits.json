@@ -178,24 +178,6 @@
             "CarteCarre10fee_1-a.jpg"
         ]
     },
-    {
-        "id": "CarteCarre10-11",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-11",
-        "catégorie": "petit-format-carré",
-        "description": {
-                "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10cham_1-a.jpg"
-        ]
-    },
 
 
     {
@@ -499,26 +481,6 @@
         ]
     },
 
-
-
-    {
-        "id": "CarteRectangle-19",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-19",
-        "catégorie": "format-rectangle",
-        "description": {
-                "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15abstractcompo_1-a.jpg"
-        ]
-    },
     {
         "id": "CarteRectangle-21",
         "titre": {
