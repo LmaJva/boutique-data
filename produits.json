@@ -1,1101 +1,1101 @@
 [{
-        "id": "CarteCarre10-1",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-01",
-        "catégorie": "petit-format-carré",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10cieux_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteCarre10-2",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-02",
-        "catégorie": "petit-format-carré",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10amor_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteCarre10-3",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-03",
-        "catégorie": "petit-format-carré",
-        "description": {
-                "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10dosnu_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteCarre10-4",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-04",
-        "catégorie": "petit-format-carré",
-        "description": {
-              "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10croatisland_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteCarre10-5",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-05",
-        "catégorie": "petit-format-carré",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10extrat_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteCarre10-6",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-06",
-        "catégorie": "petit-format-carré",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10the_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteCarre10-7",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-07",
-        "catégorie": "petit-format-carré",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10infini_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteCarre10-8",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-08",
-        "catégorie": "petit-format-carré",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10blcbleu_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteCarre10-9",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-09",
-        "catégorie": "petit-format-carré",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10lecteur_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteCarre10-10",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-10",
-        "catégorie": "petit-format-carré",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10fee_1-a.jpg"
-        ]
-    },
+		"id": "CarteCarre10-1",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-01",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10cieux_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteCarre10-2",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-02",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10amor_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteCarre10-3",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-03",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10dosnu_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteCarre10-4",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-04",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10croatisland_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteCarre10-5",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-05",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10extrat_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteCarre10-6",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-06",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10the_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteCarre10-7",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-07",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10infini_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteCarre10-8",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-08",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10blcbleu_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteCarre10-9",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-09",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10lecteur_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteCarre10-10",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-10",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10fee_1-a.jpg"
+		]
+	},
 
 
-    {
-        "id": "CarteCarre10-12",
-        "titre": {
-            "en": "Small Square Size",
-            "fr": "Petit Format Carré"
-        },
-        "modification": "2023-04-12",
-        "catégorie": "petit-format-carré",
-        "description": {
-              "en": "",
-            "fr": ""
-        },
-        "prix": 1.5,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre10tissufleur_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteCarre10-12",
+		"titre": {
+			"en": "Small Square Size",
+			"fr": "Petit Format Carré"
+		},
+		"modification": "2023-04-12",
+		"catégorie": "petit-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 1.5,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre10tissufleur_1-a.jpg"
+		]
+	},
 
 
-    {
-        "id": "CarteRectangle-1",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-01",
-        "catégorie": "format-rectangle",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15amoureux_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-1",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-01",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15amoureux_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-2",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-04",
-        "catégorie": "format-rectangle",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15princesse_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-2",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-04",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15princesse_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-3",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-3",
-        "catégorie": "format-rectangle",
-        "description": {
-                "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15compobluered_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-3",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-3",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15compobluered_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-4",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-04",
-        "catégorie": "format-rectangle",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15cieux_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-4",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-04",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15cieux_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-5",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-5",
-        "catégorie": "format-rectangle",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15compoitalie_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-5",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-5",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15compoitalie_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-7",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-7",
-        "catégorie": "format-rectangle",
-        "description": {
-                "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15hudert2_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-7",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-7",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15hudert2_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-8",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-08",
-        "catégorie": "format-rectangle",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15creaturestrans_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-8",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-08",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15creaturestrans_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-9",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-09",
-        "catégorie": "format-rectangle",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15lecteur_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-9",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-09",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15lecteur_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-10",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-10",
-        "catégorie": "format-rectangle",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15encrechinecompo_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-10",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-10",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15encrechinecompo_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-11",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-11",
-        "catégorie": "format-rectangle",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15sf_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-11",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-11",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15sf_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-12",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-12",
-        "catégorie": "format-rectangle",
-        "description": {
-                "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15sfblueblack_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteRectangle-13",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-13",
-        "catégorie": "format-rectangle",
-        "description": {
-                "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15infini_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteRectangle-14",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-14",
-        "catégorie": "format-rectangle",
-        "description": {
-                "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15livremerveille_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteRectangle-15",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-15",
-        "catégorie": "format-rectangle",
-        "description": {
-                "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15Extratblue_1-a.jpg"
-        ]
-    },
-    {
-        "id": "CarteRectangle-17",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-17",
-        "catégorie": "format-rectangle",
-        "description": {
-               "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15fresqueplant2_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-12",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-12",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15sfblueblack_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteRectangle-13",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-13",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15infini_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteRectangle-14",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-14",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15livremerveille_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteRectangle-15",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-15",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15Extratblue_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteRectangle-17",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-17",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15fresqueplant2_1-a.jpg"
+		]
+	},
 
-    {
-        "id": "CarteRectangle-21",
-        "titre": {
-            "en": "Rectangle Size",
-            "fr": "Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "format-rectangle",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 2.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte10x15encrechinerenard_1-a.jpg"
-        ]
-    }, 
- 
-    {
-        "id": "CarteMoyenFormat-1",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21Extratblue_1-a.jpg"
-        ]
-    },
- 
-     {
-        "id": "CarteMoyenFormat-2",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21amoureux_1-a.jpg"
-        ]
-    },
-  
- {
-        "id": "CarteMoyenFormat-3",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21cham_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteRectangle-21",
+		"titre": {
+			"en": "Rectangle Size",
+			"fr": "Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "format-rectangle",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 2.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte10x15encrechinerenard_1-a.jpg"
+		]
+	},
 
-{
-        "id": "CarteMoyenFormat-4",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21compobluered_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteMoyenFormat-1",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21Extratblue_1-a.jpg"
+		]
+	},
+
+	{
+		"id": "CarteMoyenFormat-2",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21amoureux_1-a.jpg"
+		]
+	},
+
+	{
+		"id": "CarteMoyenFormat-3",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21cham_1-a.jpg"
+		]
+	},
+
+	{
+		"id": "CarteMoyenFormat-4",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21compobluered_1-a.jpg"
+		]
+	},
 
 
-        {
-        "id": "CarteMoyenFormat-5",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21creaturestrans_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteMoyenFormat-5",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21creaturestrans_1-a.jpg"
+		]
+	},
 
-                {
-        "id": "CarteMoyenFormat-6",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21monade_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteMoyenFormat-6",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21monade_1-a.jpg"
+		]
+	},
 
- {
-        "id": "CarteMoyenFormat-7",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21hundertforet_1-a.jpg"
-        ]
-    },
-{
-        "id": "CarteMoyenFormat-8",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21princesse_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteMoyenFormat-7",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21hundertforet_1-a.jpg"
+		]
+	},
+	{
+		"id": "CarteMoyenFormat-8",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21princesse_1-a.jpg"
+		]
+	},
 
-        {
-        "id": "CarteMoyenFormat-9",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21sfblueblack_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteMoyenFormat-9",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21sfblueblack_1-a.jpg"
+		]
+	},
 
- {
-        "id": "CarteMoyenFormat-10",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21hundert3_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteMoyenFormat-10",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21hundert3_1-a.jpg"
+		]
+	},
 
- {
-        "id": "CarteMoyenFormat-11",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21lecteur_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteMoyenFormat-11",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21lecteur_1-a.jpg"
+		]
+	},
 
-         {
-        "id": "CarteMoyenFormat-12",
-        "titre": {
-            "en": "Medium Size",
-            "fr": "Moyen Format"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "moyen-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 4.5,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte15x21hudert2bords_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteMoyenFormat-12",
+		"titre": {
+			"en": "Medium Size",
+			"fr": "Moyen Format"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "moyen-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 4.5,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte15x21hudert2bords_1-a.jpg"
+		]
+	},
 
- {
-        "id": "CarteCarreGrandFormat-1",
-        "titre": {
-            "en": "Large Square Size",
-            "fr": "Grand Format Carré"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format-carré",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre21x21extrat_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteCarreGrandFormat-1",
+		"titre": {
+			"en": "Large Square Size",
+			"fr": "Grand Format Carré"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre21x21extrat_1-a.jpg"
+		]
+	},
 
-         {
-        "id": "CarteCarreGrandFormat-2",
-        "titre": {
-            "en": "Large Square Size",
-            "fr": "Grand Format Carré"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format-carré",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre21x21blcbleu_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteCarreGrandFormat-2",
+		"titre": {
+			"en": "Large Square Size",
+			"fr": "Grand Format Carré"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre21x21blcbleu_1-a.jpg"
+		]
+	},
 
- {
-        "id": "CarteCarreGrandFormat-3",
-        "titre": {
-            "en": "Large Square Size",
-            "fr": "Grand Format Carré"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format-carré",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre21x21tissufleur_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteCarreGrandFormat-3",
+		"titre": {
+			"en": "Large Square Size",
+			"fr": "Grand Format Carré"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre21x21tissufleur_1-a.jpg"
+		]
+	},
 
- {
-        "id": "CarteCarreGrandFormat-4",
-        "titre": {
-            "en": "Large Square Size",
-            "fr": "Grand Format Carré"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format-carré",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre21x21amor_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteCarreGrandFormat-4",
+		"titre": {
+			"en": "Large Square Size",
+			"fr": "Grand Format Carré"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre21x21amor_1-a.jpg"
+		]
+	},
 
-         {
-        "id": "CarteCarreGrandFormat-5",
-        "titre": {
-            "en": "Large Square Size",
-            "fr": "Grand Format Carré"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format-carré",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "CarteCarre21x21fee_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteCarreGrandFormat-5",
+		"titre": {
+			"en": "Large Square Size",
+			"fr": "Grand Format Carré"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format-carré",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"CarteCarre21x21fee_1-a.jpg"
+		]
+	},
 
-                 {
-        "id": "CarteGrandFormatRectangle-1",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte21x30lecteur_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-1",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte21x30lecteur_1-a.jpg"
+		]
+	},
 
-  {
-        "id": "CarteGrandFormatRectangle-2",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "12Carte10x15sfblueblack_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-2",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"12Carte10x15sfblueblack_1-a.jpg"
+		]
+	},
 
-  {
-        "id": "CarteGrandFormatRectangle-3",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "2Carte10x15princesse_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-3",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"2Carte10x15princesse_1-a.jpg"
+		]
+	},
 
- {
-        "id": "CarteGrandFormatRectangle-4",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte21x30amoureux_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-4",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte21x30amoureux_1-a.jpg"
+		]
+	},
 
-  {
-        "id": "CarteGrandFormatRectangle-5",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte21x30Extratblue_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-5",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte21x30Extratblue_1-a.jpg"
+		]
+	},
 
-  {
-        "id": "CarteGrandFormatRectangle-5",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte21x30compobluered_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-5",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte21x30compobluered_1-a.jpg"
+		]
+	},
 
-        {
-        "id": "CarteGrandFormatRectangle-6",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte21x30abstractcompo_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-6",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte21x30abstractcompo_1-a.jpg"
+		]
+	},
 
-              {
-        "id": "CarteGrandFormatRectangle-7",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte21x30compoitalie_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-7",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte21x30compoitalie_1-a.jpg"
+		]
+	},
 
-  {
-        "id": "CarteGrandFormatRectangle-8",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte21x30encrechine.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-8",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte21x30encrechine.jpg"
+		]
+	},
 
- {
-        "id": "CarteGrandFormatRectangle-9",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte21x30ile.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-9",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte21x30ile.jpg"
+		]
+	},
 
-         {
-        "id": "CarteGrandFormatRectangle-10",
-        "titre": {
-            "en": "Large Rectangle Size",
-            "fr": "Grand Format Rectangle"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "grand-format",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 10,
-        "quantité_produite": 5,
-        "photos": [
-            "Carte21x30livremerveille_1-a.jpg"
-        ]
-    },
+	{
+		"id": "CarteGrandFormatRectangle-10",
+		"titre": {
+			"en": "Large Rectangle Size",
+			"fr": "Grand Format Rectangle"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "grand-format",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 10,
+		"quantité_produite": 5,
+		"photos": [
+			"Carte21x30livremerveille_1-a.jpg"
+		]
+	},
 
-        {
-        "id": "CarnetPorteCarte-1",
-        "titre": {
-            "en": "Card Holder Booklet",
-            "fr": "Carnet Porte-Carte"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "carnet-porte-carte",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 20,
-        "quantité_produite": 5,
-        "photos": [
-            "CarnetMatisse_1-a.jpg"
-            "CarnetMatisse_1-b.jpg"
-            "CarnetMatisse_1-c.jpg"
-        ]
-    },
+	{
+		"id": "CarnetPorteCarte-1",
+		"titre": {
+			"en": "Card Holder Booklet",
+			"fr": "Carnet Porte-Carte"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "carnet-porte-carte",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 20,
+		"quantité_produite": 5,
+		"photos": [
+			"CarnetMatisse_1-a.jpg",
+			"CarnetMatisse_1-b.jpg",
+			"CarnetMatisse_1-c.jpg"
+		]
+	},
 
-         {
-        "id": "CarnetPorteCarte-2",
-        "titre": {
-            "en": "Card Holder Booklet",
-            "fr": "Carnet Porte-Carte"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "carnet-porte-carte",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 20,
-        "quantité_produite": 5,
-        "photos": [
-            "CarnetMatisseRg_1-a.jpg"
-            "CarnetMatisseRg_1-b.jpg"
-            "CarnetMatisseRg_1-c.jpg"
-        ]
-    },
+	{
+		"id": "CarnetPorteCarte-2",
+		"titre": {
+			"en": "Card Holder Booklet",
+			"fr": "Carnet Porte-Carte"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "carnet-porte-carte",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 20,
+		"quantité_produite": 5,
+		"photos": [
+			"CarnetMatisseRg_1-a.jpg",
+			"CarnetMatisseRg_1-b.jpg",
+			"CarnetMatisseRg_1-c.jpg"
+		]
+	},
 
-                 {
-        "id": "CarnetPorteCarte-3",
-        "titre": {
-            "en": "Card Holder Booklet",
-            "fr": "Carnet Porte-Carte"
-        },
-        "modification": "2023-04-21",
-        "catégorie": "carnet-porte-carte",
-        "description": {
-            "en": "",
-            "fr": ""
-        },
-        "prix": 20,
-        "quantité_produite": 5,
-        "photos": [
-            "CarnetVivaRouge_1-a.jpg"
-            "CarnetVivaRouge_1-b.jpg"
-            "CarnetVivaRouge_1-c.jpg"
-        ],
-        "impression": {
-                "fr": "Numérique",
-                "en": "Digital"
-        }
-    },
+	{
+		"id": "CarnetPorteCarte-3",
+		"titre": {
+			"en": "Card Holder Booklet",
+			"fr": "Carnet Porte-Carte"
+		},
+		"modification": "2023-04-21",
+		"catégorie": "carnet-porte-carte",
+		"description": {
+			"en": "",
+			"fr": ""
+		},
+		"prix": 20,
+		"quantité_produite": 5,
+		"photos": [
+			"CarnetVivaRouge_1-a.jpg",
+			"CarnetVivaRouge_1-b.jpg",
+			"CarnetVivaRouge_1-c.jpg"
+		],
+		"impression": {
+			"fr": "Numérique",
+			"en": "Digital"
+		}
+	}
 ]
