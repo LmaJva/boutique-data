@@ -53,7 +53,8 @@
             "fr": "Information",
             "en": "Information"
         }
-             {
+    },
+    {
         "name": "envoi",
         "label": {
             "fr": "Envoi",
