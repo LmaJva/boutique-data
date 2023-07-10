@@ -1,0 +1,63 @@
+[{
+        "name": "dimension",
+        "label": {
+            "fr": "Dimension",
+            "en": "Size"
+        }
+    },
+    {
+        "name": "impression",
+        "label": {
+            "en": "Print",
+            "fr": "Impression"
+        }
+    },
+    {
+        "name": "technique",
+        "label": {
+            "fr": "Technique",
+            "en": "Technique"
+        }
+    },
+    {
+        "name": "materiaux",
+        "label": {
+            "fr": "Matériaux",
+            "en": "Materials"
+        }
+    },
+    {
+        "name": "finition",
+        "label": {
+            "fr": "Finition",
+            "en": "Finish"
+        }
+    },
+    {
+        "name": "type de papier",
+        "label": {
+            "fr": "Type de papier",
+            "en": "Type of paper"
+        }
+    },
+    {
+        "name": "verso",
+        "label": {
+            "fr": "Verso",
+            "en": "Card back"
+        }
+    },
+    {
+        "name": "information",
+        "label": {
+            "fr": "Information",
+            "en": "Information"
+        }
+             {
+        "name": "envoi",
+        "label": {
+            "fr": "Envoi",
+            "en": "Shipping"
+        }
+    }
+]
