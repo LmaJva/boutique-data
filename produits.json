@@ -536,7 +536,7 @@
         "photos": [
             "Carte15x21amoureux_1-a.jpg"
         ]
-    }
+    },
   
  {
         "id": "CarteMoyenFormat-3",
@@ -555,7 +555,7 @@
         "photos": [
             "Carte15x21cham_1-a.jpg"
         ]
-    }
+    },
 
 {
         "id": "CarteMoyenFormat-4",
@@ -574,6 +574,6 @@
         "photos": [
             "Carte15x21compobluered_1-a.jpg"
         ]
-    },
+    }
 
 ]
