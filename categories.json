@@ -14,7 +14,7 @@
         "label": "format-rectangle",
         "titre": {
             "fr": "Format Rectangle",
-            "en": "Rectangle Size"
+            "en": "Format Rectangle"
         },
         "description": {
             "fr": "La traditionnelle carte postale rectangulaire, imprimée numériquement de mes oeuvres originales. Elle accompagnera volontier toutes vos fabuleuses péripéties",
@@ -25,7 +25,7 @@
         "label": "moyen-format",
         "titre": {
            "fr": "Moyen Format",
-            "en": "Medium Size"
+            "en": "Moyen Format"
         },
         "description": {
             "fr": "Ambivalente, cette carte ravira un.e destinataire d'une attention particulièrement grande ou tout simplement pour l'admirer chez soi, sur un meuble ou au mur. Digitally printed card of my original works",
@@ -36,7 +36,7 @@
          "label": "grand-format-carré",
         "titre": {
            "fr": "Grand Format Carré",
-            "en": "Large Square Size"
+            "en": "Grand Format Carré"
         },
         "description": {
             "fr": "Ce grand format carré saura montrer tous ses détails, pour accrocher chez soi ou à envoyer. Format imprimé de mes oeuvres originales",
@@ -47,7 +47,7 @@
         "label": "grand-format",
         "titre": {
             "fr": "Grand Format",
-            "en": " "
+            "en": "Grand Format"
         },
         "description": {
             "fr": "Ce grand format saura montrer tous ses détails, pour accrocher chez soi ou à envoyer pour faire grandement plaisir. Format imprimé de mes oeuvres originales",
@@ -59,7 +59,7 @@
         "label": "carnet-porte-carte",
         "titre": {
            "fr": "Carnet Porte-Carte",
-           "en": "Card Holder Booklet"
+           "en": "Carnet Porte-Carte"
         },
         "description": {
            "fr": "Carnet artisanal dont la couverture, en papier rigide, permet de glisser la carte postale de son choix et ainsi laisser transparaître les couleurs et formes pour une couverture perosnnalisée et amovible. Les pages sont entièrement artisanales en papiers recyclés, c'est pourquoi il est préférable d'y écrire au stylo bille ou crayon de papier",
