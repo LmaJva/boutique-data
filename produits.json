@@ -120,6 +120,7 @@
 		},
 		"prix": 1.5,
 		"quantité_produite": 5,
+		"dimensions": "10x10 cm",
 		"photos": [
 			"CarteCarre10infini_1-b.jpg",
 			"CarteCarre10infini_1-a.jpg"
