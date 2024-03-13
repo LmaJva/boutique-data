@@ -10,7 +10,10 @@
 			"en": "",
 			"fr": ""
 		},
-		"truc": "schtroumpf",
+		"dimension": {
+			"en": "10 inch",
+			"fr": "30 cm"
+		},
 		"prix": 1.5,
 		"quantité_produite": 6,
 		"photos": [
